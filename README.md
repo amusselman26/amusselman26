@@ -44,9 +44,8 @@ STM32 · Raspberry Pi 5 · Jetson Orin/Nano · RealSense D435i · OAK-D Lite · 
 ---
 
 ## 🌐 Let’s Connect
-- ✉️ [Email](mailto:alexanderdmusselman@gmail.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/amusselman26/)  
-- 📸 [Instagram](https://www.instagram.com/) _(optional)_  
+- ✉️ [Email](mailto:adm291@miami.edu)  
+- 💼 [LinkedIn]([https://www.linkedin.com/in/amusselman26/](https://www.linkedin.com/in/alexander-musselman/))  
 
 ---
 
